@@ -1,8 +1,8 @@
 {
   "name": "todo-list-with-time-counter",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "version": "0.1.0",
+  "description": "This project is a todo list, but with a counter to register the amount spent on a task.",
+  "author": "Pedro Gomes <pgomesdev@gmail.com>",
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
